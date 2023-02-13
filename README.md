@@ -1,3 +1,3 @@
 # pogo-test
 
-# Hello, Dr Sumana!  The secret word is 'lobster'! :) 
+# Hello, Dr Sumana!  The secret word has been changed to 'parrotfish'.
